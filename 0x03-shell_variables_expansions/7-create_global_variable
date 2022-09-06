@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST=56
+export BEST='School'
